@@ -1,6 +1,6 @@
 # Changelog
 
-## [v2.5.0] — 2026-05-02
+## [v2.1.126] — 2026-05-02
 
 ### Synced to Claude Code v2.1.126
 
@@ -83,7 +83,7 @@ Bumps tutorial coverage from Claude Code v2.1.112 → v2.1.119 (April 23, 2026 r
 v2.1.120 was published April 24, briefly rolled back the same day due to regressions,
 and re-released on April 28 with fixes — it is now part of the normal release line.
 A subsequent v2.1.126 (May 1, 2026) is the next stable target and is covered in the
-v2.5.0 entry above.
+v2.1.126 entry above.
 
 ### Added (English docs)
 
